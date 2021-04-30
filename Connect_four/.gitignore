@@ -1,5 +1,5 @@
 .idea
 out
-/src/Try
-/src/Try_interfaces
+src/Try
+src/Try_interfaces
 Connect_four.iml
